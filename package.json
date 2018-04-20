@@ -1,0 +1,19 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mocha": "^5.1.1",
+    "moment": "^2.22.1",
+    "mongoose": "^5.0.15",
+    "nodemon": "^1.17.3",
+    "socket.io": "^2.1.0"
+  }
+}
